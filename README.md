@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [OLX-JUIT](https://github.com/ritwija05/OLX-JUIT)
 
-- 🌱 I’m currently learning **React,Django**
+- 🌱 I’m currently learning **ReactJS, Django**
 
 - 👯 I’m looking to collaborate on [VENSAFE](https://github.com/ritwija05/VenSafe)
 
-- 💬 Ask me about **C++, DSA, Backend Frameworks (Flask , Django),Cyber Security,CTFs,Hackathons**
+- 💬 Ask me about **C++, DSA, Python, Backend Frameworks (Flask , Django),Cyber Security,CTFs,Hackathons**
 
 - 📫 How to reach me **ritwija05@gmail.com**
 
