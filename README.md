@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHYcpvLOEFUpw/profile-displaybackgroundimage-shrink_350_1400/0/1685990924974?e=1694044800&v=beta&t=NZHlugRMDKbi5jMPh8e5yZO-5C0BCI3kjqEQcDnxHSc)](https://codegrills.in)
-<h1 align="center">Hi 👋, I'm Ritwija</h1>
+<h1 align="center">Hello 👋, I'm Ritwija</h1>
 <h3 align="center">In order to be irreplaceable one must always be different.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">
 
@@ -11,9 +11,11 @@
 
 - 👯 I’m looking to collaborate on [VENSAFE](https://github.com/ritwija05/VenSafe)
 
-- 💬 Ask me about **C++, DSA, Python, Backend Frameworks (Flask , Django),Cyber Security,CTFs,Hackathons**
+- 💬 Ask me about **C++, DSA, Python, Backend Frameworks (Flask , Django), Cyber Security, CTFs, Hackathons**
 
 - 📫 How to reach me **ritwija05@gmail.com**
+
+- ⚡ Show some love by starring some of my repositories
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-XbRH01J7MQGjkApfHa_a7D_qa_01Q_a/view?usp=sharing](https://drive.google.com/file/d/1-XbRH01J7MQGjkApfHa_a7D_qa_01Q_a/view?usp=sharing)
 
