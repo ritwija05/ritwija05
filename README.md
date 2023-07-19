@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwija05&label=Profile%20views&color=0e75b6&style=flat" alt="ritwija05" /> </p>
 
-- 🔭 I’m currently working on [OLX-JUIT](https://github.com/ritwija05/OLX-JUIT)
-
-- 🌱 I’m currently learning **ReactJS, Django**
-
-- 👯 I’m looking to collaborate on [VENSAFE](https://github.com/ritwija05/VenSafe)
-
-- 💬 Ask me about **C++, DSA, Python, Backend Frameworks (Flask , Django), Cyber Security, CTFs, Hackathons**
+- 🌱 I’m currently learning **Django and Flask** and mastering **C++ and Problem Solving**
+  
+- 💬 Ask me about **C++, DSA, Python, Backend Frameworks (Flask, Django), Cyber Security, CTFs, Hackathons**
 
 - 📫 How to reach me **ritwija05@gmail.com**
 
@@ -19,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-XbRH01J7MQGjkApfHa_a7D_qa_01Q_a/view?usp=sharing](https://drive.google.com/file/d/1-XbRH01J7MQGjkApfHa_a7D_qa_01Q_a/view?usp=sharing)
 
-- ⚡ Fun fact **I have a knack for cheesy jokes and puns! I love sharing lighthearted and humorous moments with others. So, if you're ever in need of a good laugh, feel free to reach out!**
+- ⚡  **Wherever the reward shines bright, soars the spirit of competition!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
