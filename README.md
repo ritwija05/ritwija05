@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Django and Flask** and mastering **C++ and Problem Solving**
   
-- 💬 Ask me about **C++, DSA, Python, Backend Frameworks (Flask, Django), Cyber Security, CTFs, Hackathons**
+- 💬 Ask me about **Backend Frameworks (Flask, Django), Cyber Security, CTFs, Hackathons, C++, DSA, Python,**
 
 - 📫 How to reach me **ritwija05@gmail.com**
-
-- ⚡ Show some love by starring some of my repositories
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-XbRH01J7MQGjkApfHa_a7D_qa_01Q_a/view?usp=sharing](https://drive.google.com/file/d/1-XbRH01J7MQGjkApfHa_a7D_qa_01Q_a/view?usp=sharing)
 
