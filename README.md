@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ritwija05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-XbRH01J7MQGjkApfHa_a7D_qa_01Q_a/view?usp=sharing](https://drive.google.com/file/d/1-XbRH01J7MQGjkApfHa_a7D_qa_01Q_a/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yoECK9BrdpH3zqBBaYb21B7fX0ewlRD5/view?usp=sharing)
 
 - ⚡  **Wherever the reward shines bright, soars the spirit of competition!**
 
