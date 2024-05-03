@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwija05&label=Profile%20views&color=0e75b6&style=flat" alt="ritwija05" /> </p>
 
-- 🌱 I’m currently learning **Django and Flask** and mastering **C++ and Problem Solving**
   
-- 💬 Ask me about **Backend Frameworks(Flask, Django), Cyber Security, CTFs, Hackathons, C++, DSA, Python,**
+- 💬 Ask me about **ReactJS and Backend Frameworks(Flask, Django), Cyber Security, CTFs, Hackathons, C++, DSA**
 
 - 📫 How to reach me **ritwija05@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yoECK9BrdpH3zqBBaYb21B7fX0ewlRD5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cYe-ZhbFsLaa8VAbo8CjBFjeROUyzMfE/view)
 
 - ⚡  **Wherever the reward shines bright, soars the spirit of competition!**
 
